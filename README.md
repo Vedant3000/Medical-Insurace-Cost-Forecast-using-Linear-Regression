@@ -8,10 +8,12 @@ By visualizing the data using Matplotlib, this project provides an engaging look
 - 📉 Linear Regression Model: Predicts medical insurance costs using a simple yet powerful machine learning technique.
 - 👨‍👩‍👧 Personal Data Factors: Factors considered in the prediction include:
 - Age 📅
+  ![Age distribution](age.png)
 - Sex 🧑👩
 - Number of Children 👶
 - Smoking Habits 🚬
 - 📊 Data Visualization: Engaging graphs and plots created with Matplotlib to show how each factor correlates with insurance costs.
+  ![Dataset](data.png)
 - 🛠️ Simple and Efficient: Lightweight and easy to run, with clearly structured code and visualization for an interactive experience.
 ## ⚙️ Tech Stack
 - Python 🐍
@@ -30,7 +32,7 @@ pip install -r requirements.txt
 ```
 3. Run the Prediction Model:
 ```
-python insurance_cost_prediction.py
+python insurance.ipynb
 ```
 ## View the Results:
 
@@ -39,6 +41,7 @@ The predicted cost for each individual in the dataset will be displayed after ru
 
 ## 📊 Visualizations
 - Age vs Insurance Cost: See how age influences the cost of medical insurance as you grow older. 👵📈
+  ![BMI Distribution](bmi.png)
 - Number of Children vs Insurance Cost: Explore how having more children affects the overall cost. 👶👶📊
 - Smoking Habit Impact: Discover the significant rise in insurance costs for smokers compared to non-smokers. 🚬⚠️
 

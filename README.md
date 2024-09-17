@@ -4,6 +4,9 @@ This repository contains a predictive model for estimating medical insurance cos
 
 By visualizing the data using Matplotlib, this project provides an engaging look into how lifestyle choices and demographics can influence medical insurance costs. This tool can be incredibly useful for insurance companies, healthcare providers, or individuals who want to estimate their potential insurance expenses. 🏦💡
 
+
+![Dataset](data.png)
+
 ## 🔑 Key Features
 - 📉 Linear Regression Model: Predicts medical insurance costs using a simple yet powerful machine learning technique.
 - 👨‍👩‍👧 Personal Data Factors: Factors considered in the prediction include:
